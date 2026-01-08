@@ -8,7 +8,7 @@
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate local:Profile}"
-        Route="Profile" />
+        ContentTemplate="{DataTemplate local:Cart}"
+        Route="Cart" />
 
 </Shell>
